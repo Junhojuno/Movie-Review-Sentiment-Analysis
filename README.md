@@ -15,4 +15,8 @@ In this competition, youâ€™re challenged to build a **multi-headed model** thatâ
 
 
 ### Result
----
+
+| Submission | CV Mean-Score | Public LB | Rank | Private LB | Rank |
+|:----------:|:----------:|:---------:|:----:|:----------:|:----:|
+| LR_wordvectorized | 0.989 | 0.5344 | - | 0.5438 | - |
+| LR_word&char_vectorized | 0.9792 | 0.9764 | **3100** | 0.9756 | **3196** |
